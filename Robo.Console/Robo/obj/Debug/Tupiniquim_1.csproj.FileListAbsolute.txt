@@ -1,0 +1,7 @@
+C:\Users\iohan\source\repos\Robo.Console\Robo\bin\Debug\Robo.exe.config
+C:\Users\iohan\source\repos\Robo.Console\Robo\bin\Debug\Robo.exe
+C:\Users\iohan\source\repos\Robo.Console\Robo\bin\Debug\Robo.pdb
+C:\Users\iohan\source\repos\Robo.Console\Robo\obj\Debug\Tupiniquim_1.csproj.CoreCompileInputs.cache
+C:\Users\iohan\source\repos\Robo.Console\Robo\obj\Debug\Robo.exe
+C:\Users\iohan\source\repos\Robo.Console\Robo\obj\Debug\Robo.pdb
+C:\Users\iohan\source\repos\Robo.Console\Robo\obj\Debug\Tupiniquim_1.csprojAssemblyReference.cache
