@@ -1,0 +1,7 @@
+C:\Users\iohan\Documents\Projetos em C#\calculadora.console\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\iohan\Documents\Projetos em C#\calculadora.console\calculadora\bin\Debug\calculadora.exe
+C:\Users\iohan\Documents\Projetos em C#\calculadora.console\calculadora\bin\Debug\calculadora.pdb
+C:\Users\iohan\Documents\Projetos em C#\calculadora.console\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\iohan\Documents\Projetos em C#\calculadora.console\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\iohan\Documents\Projetos em C#\calculadora.console\calculadora\obj\Debug\calculadora.exe
+C:\Users\iohan\Documents\Projetos em C#\calculadora.console\calculadora\obj\Debug\calculadora.pdb
