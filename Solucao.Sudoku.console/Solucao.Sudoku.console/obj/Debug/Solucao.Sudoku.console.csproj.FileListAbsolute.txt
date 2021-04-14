@@ -1,0 +1,7 @@
+C:\Users\iohan\source\repos\Solucao.Sudoku.console\Solucao.Sudoku.console\bin\Debug\Solucao.Sudoku.console.exe.config
+C:\Users\iohan\source\repos\Solucao.Sudoku.console\Solucao.Sudoku.console\bin\Debug\Solucao.Sudoku.console.exe
+C:\Users\iohan\source\repos\Solucao.Sudoku.console\Solucao.Sudoku.console\bin\Debug\Solucao.Sudoku.console.pdb
+C:\Users\iohan\source\repos\Solucao.Sudoku.console\Solucao.Sudoku.console\obj\Debug\Solucao.Sudoku.console.csprojAssemblyReference.cache
+C:\Users\iohan\source\repos\Solucao.Sudoku.console\Solucao.Sudoku.console\obj\Debug\Solucao.Sudoku.console.csproj.CoreCompileInputs.cache
+C:\Users\iohan\source\repos\Solucao.Sudoku.console\Solucao.Sudoku.console\obj\Debug\Solucao.Sudoku.console.exe
+C:\Users\iohan\source\repos\Solucao.Sudoku.console\Solucao.Sudoku.console\obj\Debug\Solucao.Sudoku.console.pdb
