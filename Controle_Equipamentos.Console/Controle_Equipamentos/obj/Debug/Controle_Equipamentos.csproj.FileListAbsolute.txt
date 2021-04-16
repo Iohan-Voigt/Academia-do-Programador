@@ -1,0 +1,7 @@
+C:\Users\iohan\source\repos\Controle_Equipamentos.Console\Controle_Equipamentos\bin\Debug\Controle_Equipamentos.exe.config
+C:\Users\iohan\source\repos\Controle_Equipamentos.Console\Controle_Equipamentos\bin\Debug\Controle_Equipamentos.exe
+C:\Users\iohan\source\repos\Controle_Equipamentos.Console\Controle_Equipamentos\bin\Debug\Controle_Equipamentos.pdb
+C:\Users\iohan\source\repos\Controle_Equipamentos.Console\Controle_Equipamentos\obj\Debug\Controle_Equipamentos.csprojAssemblyReference.cache
+C:\Users\iohan\source\repos\Controle_Equipamentos.Console\Controle_Equipamentos\obj\Debug\Controle_Equipamentos.csproj.CoreCompileInputs.cache
+C:\Users\iohan\source\repos\Controle_Equipamentos.Console\Controle_Equipamentos\obj\Debug\Controle_Equipamentos.exe
+C:\Users\iohan\source\repos\Controle_Equipamentos.Console\Controle_Equipamentos\obj\Debug\Controle_Equipamentos.pdb
